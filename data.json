@@ -1,0 +1,175 @@
+{
+    "personal": {
+        "name": "mariam.p.",
+        "greeting": "HELLO, WELCOME TO MY PORTFOLIO",
+        "role": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600",
+        "introduction": "I am a passionate BCA first-year student who loves learning programming, designing websites and exploring new technologies. I enjoy turning creative ideas into beautiful digital experiences.",
+        "careerGoal": "To become a skilled Full Stack Developer and build innovative web applications that solve real-world problems.",
+        "email": "mariam.p.@example.com",
+        "phone": "+91 9731529768",
+        "location": "Mumbai, Maharashtra, India",
+        "resume": "resume.pdf",
+        "footerDescription": "Passionate about technology, programming and creating amazing digital experiences."
+    },
+
+    "about": {
+        "title": "A Little About Myself",
+        "description": "Hello! My name is mariam.p.and I am currently pursuing Bachelor of Computer Applications (BCA), first year. I have a strong interest in web development, programming and computer science. I started my coding journey with HTML, CSS and C programming. Currently, I am improving my JavaScript and Bootstrap skills while exploring modern web development. My goal is to continuously learn new technologies, work on practical projects and become a professional software developer."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "level": "Intermediate",
+            "percentage": 98
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "level": "Intermediate",
+            "percentage": 95
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "level": "Beginner",
+            "percentage": 99
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "level": "Intermediate",
+            "percentage": 94
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "level": "Beginner",
+            "percentage": 92
+        },
+        {
+            "name": "C++ Programming",
+            "icon": "bi bi-braces",
+            "level": "Beginner",
+            "percentage": 97
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+            "description": "A modern and responsive personal portfolio website to showcase my skills, education, projects and achievements.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800",
+            "description": "A simple student management interface designed to organize student information, academic records and basic details.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=800",
+            "description": "A simple and interactive calculator that performs basic mathematical operations with a clean user interface.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "College Landing Page",
+            "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800",
+            "description": "A responsive college landing page containing information about courses, admission, facilities and campus life.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap 5"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC College of Computer Science",
+            "duration": "2026 - 2029",
+            "semester": "First Semester",
+            "details": "Currently pursuing BCA with an interest in programming, computer fundamentals and web development."
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "XYZ Junior College",
+            "duration": "2024 - 2026",
+            "semester": "Completed",
+            "details": "Completed higher secondary education with an interest in computer science and technology."
+        },
+        {
+            "course": "Secondary School Education (10th)",
+            "college": "ABC Public School",
+            "duration": "2023 - 2024",
+            "semester": "Completed",
+            "details": "Successfully completed secondary school education."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "organization": "Online Learning Platform",
+            "date": "2026",
+            "description": "Learned HTML structure, CSS styling, layouts and responsive web design."
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "date": "2026",
+            "description": "Learned programming fundamentals, variables, loops, conditions and functions."
+        },
+        {
+            "name": "Bootstrap 5 for Beginners",
+            "organization": "Online Learning Platform",
+            "date": "2026",
+            "description": "Learned responsive layouts, Bootstrap components, containers and grid systems."
+        }
+    ],
+
+    "socialMedia": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/",
+            "icon": "bi bi-github"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "icon": "bi bi-linkedin"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/",
+            "icon": "bi bi-instagram"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://x.com/",
+            "icon": "bi bi-twitter-x"
+        }
+    ]
+}
